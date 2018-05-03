@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.seelikes.android.arouter.library" >
+
+    <application>
+        <activity android:name=".LibraryActivity" />
+    </application>
+</manifest>
